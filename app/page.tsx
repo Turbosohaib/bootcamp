@@ -11,7 +11,7 @@ import Portfolios from "@/components/Portfolios"
 
 export default function HomePage() {
   return (
-    <div className="flex flex-col min-h-screen">
+    <div className="flex flex-col min-h-screen text-black">
 
       <Header />
       <main className="flex-1">
