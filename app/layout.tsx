@@ -7,7 +7,7 @@ import { Toaster } from "@/components/ui/sonner";
 const quicksand = Quicksand({ subsets: ["latin"] });
 
 export const metadata = {
-  title: "CodeCamp - Web Development Bootcamp",
+  title: "GulfCamp - Web Development Bootcamp",
   description:
     "Learn modern web development in our intensive 12-week bootcamp.",
 };
