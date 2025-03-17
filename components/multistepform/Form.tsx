@@ -1,7 +1,7 @@
 "use client";
 import React from "react";
 import { Button } from "@/components/ui/button";
-import { useRouter } from "next/navigation";
+// import { useRouter } from "next/navigation";
 import { useState } from "react";
 import StepOne from "./StepOne";
 import StepTwo from "./StepTwo";
@@ -25,7 +25,7 @@ interface FormData {
 }
 
 const Form = ({ formStep, setFormStep }: Props) => {
-    const router = useRouter();
+    // const router = useRouter();
 
     const [formData, setFormData] = useState<FormData>({
         firstName: "",
