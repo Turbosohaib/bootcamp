@@ -34,7 +34,7 @@ const Hero = () => {
                                     variant="default"
                                     className="bg-[#2E0534] text-white"
                                 >
-                                    <Link href="/apply">
+                                    <Link href="/#contact">
                                         Contact Us<ArrowRight className="ml-2 h-4 w-4" />
                                     </Link>
                                 </Button>
