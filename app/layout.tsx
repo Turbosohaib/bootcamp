@@ -10,6 +10,9 @@ export const metadata = {
   title: "GulfCamp - Web Development Bootcamp",
   description:
     "Learn modern web development in our intensive 12-week bootcamp.",
+  icons: {
+    icon: "/favicon.ico",
+  },
 };
 
 export default function RootLayout({
