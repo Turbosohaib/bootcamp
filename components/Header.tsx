@@ -45,7 +45,7 @@ const Header = () => {
                 </nav>
                 <div>
                     <Button asChild className="bg-[#2E0534] text-white">
-                        <Link href="/#contact">Contact</Link>
+                        <Link href="/#contact">Contact Us</Link>
                     </Button>
                 </div>
             </div>
