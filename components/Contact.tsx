@@ -40,7 +40,7 @@ const Contact = () => {
                                 <span className="font-bold mr-2">Email:</span> turbosohaib1234@gmail.com
                             </p>
                             <p className="flex items-center">
-                                <span className="font-bold mr-2">Phone:</span> +93 3179949739
+                                <span className="font-bold mr-2">Phone:</span> +93 3079374126
                             </p>
                             <p className="flex items-start">
                                 <span className="font-bold mr-2">Address:</span> Malakand Mardan Rd, Opposite Saddar police Station, 2nd Floor Above Shama Cash And Carry Mall
