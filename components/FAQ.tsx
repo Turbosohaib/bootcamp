@@ -75,7 +75,7 @@ const FAQ = () => {
                         {
                             question: "What is the cost of the bootcamp?",
                             answer:
-                                "Fee is Rs 20,000 40% off. Contact us for more information.",
+                                "Fee is Rs 30,000 40% off. Contact us for more information.",
                         },
                     ].map((faq, index) => (
                         <motion.div
